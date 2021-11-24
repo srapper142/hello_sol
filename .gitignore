@@ -1,0 +1,3 @@
+# remix ignore
+.deps/remix-tests/
+/contracts/artifacts/*.json
